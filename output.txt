@@ -1,0 +1,7 @@
+------------------------------------------------------
+Sinh vien co cung ngay sinh nhat trong ngay hien tai: 
+------------------------------------------------------
+Thu hang | Ten | Ma so | Ngay sinh | Diem bai tap | Diem giua ky | Diem cuoi ky | Diem trung binh
+Oillim | 21120157 | 19/3/2003 | 4.5 | 6 | 7.9
+Nguyen Vu |  21120039 | 19/5/2003 | 10 | 9.5 | 1
+nmv | 122134 | 19/04/2003 | 3 | 4 | 5
